@@ -10,5 +10,7 @@ This project implements the following specs:
 * `GET /times/3/2/1/4` (now even the number of route operands/arguments is variable) returns "24"
 
 After cloning the repo, run:
+
 $ composer install
+
 To install dependencies
