@@ -8,3 +8,7 @@ This project implements the following specs:
 * `GET /times?x=3&y=7` returns "21"
 * `GET /times/3/hello` returns "hello hello hello"
 * `GET /times/3/2/1/4` (now even the number of route operands/arguments is variable) returns "24"
+
+After cloning the repo, run:
+$ composer install
+To install dependencies
